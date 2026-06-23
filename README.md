@@ -1,6 +1,6 @@
 # greyhack-sync
 
-Extrae una carpeta del sistema de archivos virtual de Grey Hack y la replica localmente. Útil para respaldar scripts y notas. Los binarios del juego no se agregan
+Extrae una carpeta del sistema de archivos virtual de [Grey Hack](https://store.steampowered.com/app/605230/Grey_Hack/) y la replica localmente. Útil para respaldar scripts y notas. Los binarios del juego no se agregan
 
 ## Requisitos
 
